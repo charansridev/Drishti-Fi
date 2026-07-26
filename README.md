@@ -92,4 +92,9 @@ Open your browser and navigate to `http://localhost:5173` (or the URL outputted 
 ---
 
 ## 📜 Certificate of Participation
-*Project developed by Kanamarlapudi Charan Sri Dev for the OpenAI Academy x NxtWave Regional Buildathon (Tamil Nadu).*
+
+<div align="center">
+  <img src="assets/certificate.jpg" alt="OpenAI Academy x NxtWave Buildathon Certificate of Participation" width="800" />
+  <p><em>Issued to <strong>Kanamarlapudi Charan Sri Dev</strong> for participating in the 2-day OpenAI Academy x NxtWave Regional Buildathon – Tamil Nadu (16-Nov-2025).</em></p>
+</div>
+
