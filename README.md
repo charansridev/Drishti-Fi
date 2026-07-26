@@ -67,8 +67,8 @@ DrishtiFi's multimodal AI agent evaluates the physical stock density, reads hand
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/charansridev/DrishtiFi.git
-cd DrishtiFi
+git clone https://github.com/charansridev/Drishti-Fi.git
+cd Drishti-Fi
 ```
 
 ### 2. Install Dependencies
